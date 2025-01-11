@@ -2,7 +2,7 @@
 This project, Heart-Risk Analytics, leverages machine learning models—Decision Tree, Random Forest, Logistic Regression, and XGBoost—to predict heart attack risks. By preprocessing health data, training models, and evaluating performance, it identifies risk levels with precision, aiding proactive healthcare decisions.
 
 **Key Objectives:**
-The primary objective of the Cardio-Risk Analytics project is to predict heart attack risks by utilizing various machine learning models. This project aims to provide accurate risk categorization (Low, Moderate, High) to support healthcare professionals in early intervention and prevention strategies.
+The primary objective of the Heart-Risk Analytics project is to predict heart attack risks by utilizing various machine learning models. This project aims to provide accurate risk categorization (Low, Moderate, High) to support healthcare professionals in early intervention and prevention strategies.
 
 **Data Overview:**
 The dataset contains health-related features such as age, gender, cholesterol levels, blood pressure, diabetes, physical activity, and family history, among others. The target variable is the Heart Attack Risk, categorized into Low, Moderate, and High risk levels. Categorical variables were converted to factors, and the dataset was split into training (80%) and testing (20%) subsets for model development and evaluation.
